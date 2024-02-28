@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Jone",
+      "dob": "2024-01-31",
+      "email": "nvana@gmail.com",
+      "address": "Ba Đình, Hà Nội",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "name": "Tom",
+      "dob": "2024-01-31",
+      "email": "tom@gmail.com",
+      "address": "Đà Nẵng",
+      "isActive": false
+    },
+    {
+      "id": "4",
+      "name": "Jerry",
+      "dob": "2024-01-31",
+      "email": "jerry@gmail.com'",
+      "address": "Hồ Chí Minh",
+      "isActive": true
+    },
+    {
+      "id": "171",
+      "name": "Nguyễn Minh Khang",
+      "dob": "2024-01-31",
+      "email": "thansam2810@gmail.com",
+      "address": "Hải Châu",
+      "isActive": false
+    }
+  ]
+}
